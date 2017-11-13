@@ -8,6 +8,7 @@ Python绘制各种心形线
 效果图：
 <div align=center><img src="images/aa.png" width = "50%" /></div>
 
+
 * 其它心形图一
 公式：
 <div align=center><img src="images/b.png" width = "50%" /></div>
@@ -15,12 +16,14 @@ Python绘制各种心形线
 效果图：
 <div align=center><img src="images/bb.png" width = "50%" /></div>
 
+
 * 其它心形图二
 公式：
 <div align=center><img src="images/c.png" width = "50%" /></div>
 
 效果图：
 <div align=center><img src="images/cc.png" width = "50%" /></div>
+
 
 * 其它心形图三
 公式：

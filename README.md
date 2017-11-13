@@ -3,8 +3,9 @@ Python绘制各种心形线
 
 ## 笛卡尔心形线<br>
 公式：<br>
-<div align=center><img src="images/a.png" width = "50%" /></div><br>
-
+<img src="https://latex.codecogs.com/png.latex?x=a(2cos(t)-cos(2t))" title="x=a(2cos(t)-cos(2t))" /><br>
+<img src="https://latex.codecogs.com/png.latex?y=a(2sin(t)-sin(2t))" title="y=a(2sin(t)-sin(2t))" />
+<br><br>
 效果图：<br>
 <div align=center><img src="images/aa.png" width = "50%" /></div><br>
 

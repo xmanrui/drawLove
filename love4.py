@@ -5,8 +5,7 @@ import math
 
 def draw_love():
     x = np.linspace(0, math.pi/3, 1000)
-    f = -1 * np.tan(np.sqrt(1 - np.power(np.abs(x), 3/2))) \
-        + math.pi / 2
+    f = -1 * np.tan(np.sqrt(1 - np.power(np.abs(x), 3/2))) + math.pi / 2
     g = np.sqrt(1 / 4 - np.power(x - 1 / 2, 2)) + math.pi / 2
 
     plt.plot(x, f, color='red', linewidth=2)

@@ -38,7 +38,8 @@ Python绘制各种心形线
 
 ## 其它心形图四<br>
 公式：<br>
-<div align=center><img src="images/e.png" width = "50%" /></div><br>
-
+<img src="https://latex.codecogs.com/png.latex?f(x)=(1-(\left&space;|&space;x&space;\right&space;|^{\left&space;|&space;x&space;\right&space;|})^{2})^{0.5}&plus;2" title="f(x)=(1-(\left | x \right |^{\left | x \right |})^{2})^{0.5}+2" /><br><br>
+<img src="https://latex.codecogs.com/png.latex?g(x)=-(1-1.65tan^{-1}(x)^{2})^{0.5}&plus;2" title="g(x)=-(1-1.65tan^{-1}(x)^{2})^{0.5}+2" />
+<br><br>
 效果图：<br>
 <div align=center><img src="images/ee.png" width = "50%" /></div><br>

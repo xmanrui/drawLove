@@ -29,8 +29,9 @@ Python绘制各种心形线
 
 ## 其它心形图三<br>
 公式：<br>
-<div align=center><img src="images/d.png" width = "50%" /></div><br>
-
+<img src="https://latex.codecogs.com/png.latex?f(x)=-tan(\sqrt{1-\left&space;|&space;x&space;\right&space;|^{\frac{3}{2}}})&plus;\frac{\pi&space;}{2}" title="f(x)=-tan(\sqrt{1-\left | x \right |^{\frac{3}{2}}})+\frac{\pi }{2}" /><br><br>
+<img src="https://latex.codecogs.com/png.latex?g(x)=&space;\sqrt{\frac{1}{4}-\left&space;(&space;x-\frac{1}{2}&space;\right&space;)^{2}}&plus;&space;\frac{\pi&space;}{2}" title="g(x)= \sqrt{\frac{1}{4}-\left ( x-\frac{1}{2} \right )^{2}}+ \frac{\pi }{2}" />
+<br><br>
 效果图：<br>
 <div align=center><img src="images/dd.png" width = "50%" /></div><br>
 

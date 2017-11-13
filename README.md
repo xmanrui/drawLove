@@ -20,7 +20,7 @@ Python绘制各种心形线
 ## 其它心形图二<br>
 公式：<br>
 <img src="https://latex.codecogs.com/png.latex?x^{2}&plus;\left&space;(&space;y-\sqrt[3]{x^{2}}&space;\right&space;)^{2}=1" title="x^{2}+\left ( y-\sqrt[3]{x^{2}} \right )^{2}=1" />
-<br>
+<br><br>
 效果图：<br>
 <div align=center><img src="images/cc.png" width = "50%" /></div><br>
 

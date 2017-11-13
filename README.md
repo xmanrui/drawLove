@@ -3,7 +3,7 @@ Python绘制各种心形线
 
 ## 笛卡尔心形线<br>
 公式：<br>
-<img src="https://latex.codecogs.com/png.latex?x=a(2cos(t)-cos(2t))" title="x=a(2cos(t)-cos(2t))" /><br>
+<img src="https://latex.codecogs.com/png.latex?x=a(2cos(t)-cos(2t))" title="x=a(2cos(t)-cos(2t))" /><br><br>
 <img src="https://latex.codecogs.com/png.latex?y=a(2sin(t)-sin(2t))" title="y=a(2sin(t)-sin(2t))" />
 <br><br>
 效果图：<br>
@@ -12,8 +12,9 @@ Python绘制各种心形线
 
 ## 其它心形图一<br>
 公式：<br>
-<div align=center><img src="images/b.png" width = "50%" /></div><br>
-
+<img src="https://latex.codecogs.com/png.latex?f(x)=\frac{(x^{2})^{\frac{1}{3}}&plus;((x^{4})^{\frac{1}{3}}-4x^{2}&plus;4)^{\frac{1}{2}}}{2}" title="f(x)=\frac{(x^{2})^{\frac{1}{3}}+((x^{4})^{\frac{1}{3}}-4x^{2}+4)^{\frac{1}{2}}}{2}" /><br><br>
+<img src="https://latex.codecogs.com/png.latex?g(x)=\frac{(x^{2})^{\frac{1}{3}}-((x^{4})^{\frac{1}{3}}-4x^{2}&plus;4)^{\frac{1}{2}}}{2}" title="g(x)=\frac{(x^{2})^{\frac{1}{3}}-((x^{4})^{\frac{1}{3}}-4x^{2}+4)^{\frac{1}{2}}}{2}" />
+<br><br>
 效果图：<br>
 <div align=center><img src="images/bb.png" width = "50%" /></div><br>
 

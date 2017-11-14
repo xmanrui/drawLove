@@ -43,3 +43,23 @@ Python绘制各种心形线
 <br><br>
 效果图：<br>
 <div align=center><img src="images/ee.png" width = "50%" /></div><br>
+
+
+## 其它心形图五<br>
+公式：<br>
+
+效果图：<br>
+<div align=center><img src="images/love6.png" width = "50%" /></div><br>
+
+
+## 其它心形图六<br>
+公式：<br>
+
+效果图：<br>
+<div align=center><img src="images/love7.png" width = "50%" /></div><br>
+
+## 其它心形图七<br>
+公式：<br>
+
+效果图：<br>
+<div align=center><img src="images/love8.png" width = "50%" /></div><br>

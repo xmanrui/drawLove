@@ -65,7 +65,7 @@ Python绘制各种心形线
 <div align=center><img src="images/love8.png" width = "50%" /></div><br>
 
 
-## 其它心形线七<br>
+## 其它心形线八<br>
 公式：<br>
 
 效果图：<br>

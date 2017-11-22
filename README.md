@@ -83,7 +83,7 @@ Python绘制各种心形线
 <div align=center><img src="images/love_polar1.png" width = "50%" /></div><br>
 <br>
 
-## 2.极坐标心形线一<br>
+## 2.极坐标心形线二<br>
 公式：<br>
 (未完成)<br>
 效果图：<br>
